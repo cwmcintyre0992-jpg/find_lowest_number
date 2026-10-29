@@ -1,1 +1,1 @@
-# find_lowest_number.py
+# find_lowest_number
